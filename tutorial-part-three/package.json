@@ -8,12 +8,12 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.0.0",
-    "gatsby-plugin-typography": "^2.2.0",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-typography": "^0.16.13",
-    "typography": "^0.16.17",
+    "gatsby": "^2.0.85",
+    "gatsby-plugin-typography": "^2.2.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-typography": "^0.16.18",
+    "typography": "^0.16.18",
     "typography-theme-fairy-gates": "^0.15.11"
   }
 }
